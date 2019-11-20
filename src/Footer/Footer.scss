@@ -1,0 +1,33 @@
+#footer{
+    height: 270px;
+    background-color: #F5F5F5;
+    position: relative;
+    font-size: 30px;
+    header{
+        color:rgba(255, 170, 0, 1);
+        position: absolute;
+        top:146px;
+        left:443px;
+        span{
+        // position: absolute;
+        // top:146px;
+        // right:1000px;
+        color:rgba(250, 206, 112, 1);
+    }
+    }
+    
+    #containerfooter{
+        display: flex;
+        flex-direction: column;
+        color:rgba(163, 163, 163, 1);
+        font-size: 12px;
+        text-align: right;
+        position: absolute;
+        top:75px;
+        right:470px;
+    }
+    #lu{
+        font-size: 16px;
+    }
+
+}
